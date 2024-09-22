@@ -1,0 +1,29 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.box4{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+}
+.box{
+    display: flex;
+    /*justify-content: center;*/
+    /*justify-content: end;*/
+    /*justify-content: start;*/
+    /*justify-content: flex-end;*/
+    /*justify-content: space-around;*/
+    justify-content: space-between;
+}

@@ -1,0 +1,70 @@
+.hello{
+    color: red;
+}
+.hii{
+    color: green;
+}
+.what{
+    color: brown;
+}
+#p{
+    color: red;
+}
+
+.div{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    /*border-radius: 50%;*/
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.main_div{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    border-radius: 50%;
+    background-image: url("./virat.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid red;
+}
+
+.my_div{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    border-radius: 40px;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.card{
+    height: 400px;
+    width: 280px;
+    background-color: red;
+    border-radius: 10px;
+}
+.uppar{
+    height: 50%;
+    width: 100%;
+    background-color: aqua;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url("./virat.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 40px;
+    font-weight: 800;
+    
+}

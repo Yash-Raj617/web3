@@ -1,0 +1,45 @@
+p{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+h1{
+    font-size: 200px;
+    color: transparent;
+    background-image: url("./india.jpeg");
+    background-size: cover;
+    background-clip: text;
+    text-transform: capitalize;
+}
+.india,#hello{
+    background-color: green;
+}
+*{
+    background-color: blueviolet;
+}
+
+/*div p{
+    background-color: red;
+}*/
+/*div >p{
+    background-color: yellow;
+}*/
+/*div+p{
+    background-color: green;
+}*/
+/*div~p{
+    background-color: blue;
+}*/
+.general{
+    background-color: red;
+}
+
+
+
+
